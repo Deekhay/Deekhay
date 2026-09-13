@@ -1,57 +1,82 @@
 # Hi, I'm King-David Eroh 👋
 
-### Cybersecurity & GRC Analyst
+# Security Engineer
 
-I'm a Computer Engineering graduate building practical experience in cybersecurity, Governance, Risk & Compliance (GRC), security controls, risk management, and security frameworks.
+I'm a Computer Engineering graduate building practical experience in **cybersecurity and security engineering**, with a focus on securing applications, systems, networks, cloud environments, and infrastructure.
 
-### 🔐 Areas of Focus
+## 🔐 Areas of Focus
 
-* Governance, Risk & Compliance (GRC)
-* Cybersecurity Risk Management
-* Security Controls & Control Testing
-* Risk Assessment & Risk Registers
-* NIST Cybersecurity Framework (CSF)
-* ISO/IEC 27001 & ISMS
-* SOC 2
-* CIS Controls
-* Security Policies & Procedures
-* Audit & Compliance
-* Vulnerability & Gap Assessment
-* Security Documentation
+* Security Engineering
+* Application & API Security
+* Network Security
+* Cloud Security
+* Linux Security & System Hardening
+* Vulnerability Management
+* Threat Detection & Analysis
+* Security Monitoring & SIEM
+* Identity & Access Management (IAM)
+* Incident Response
+* Security Automation
+* Secure Software Development
+* DevSecOps
+* Security Architecture
+* Penetration Testing Fundamentals
 
-### 🛠️ Technical Background
+## 🛠️ Technical Background
 
-* Software Engineering
+**Security**
+
+* Vulnerability Assessment
 * Web & API Security
-* Cloud & Application Security
-* Linux
-* SQL
-* Git/GitHub
+* Network Security
+* Security Monitoring
+* Threat Detection
+* Incident Response
+* System Hardening
+* IAM & Access Controls
+
+**Software Engineering**
+
 * JavaScript / TypeScript
 * Node.js
+* REST APIs
+* SQL
 * PostgreSQL
 * Firebase
-* REST APIs
+* Git / GitHub
 
-### 📂 GRC Portfolio
+**Systems & Infrastructure**
 
-I'm building practical GRC projects that demonstrate how I approach cybersecurity risk, controls, compliance, and remediation.
+* Linux
+* Windows
+* Networking Fundamentals
+* Cloud Security Fundamentals
+* Docker
+* CI/CD
+* Security Automation
 
-| Project                        | Skills Demonstrated                     |
-| ------------------------------ | --------------------------------------- |
-| Cybersecurity Risk Assessment  | Risk identification, scoring, treatment |
-| Security Control Matrix        | Control mapping, ownership, evidence    |
-| NIST CSF Assessment            | Framework assessment, gap analysis      |
-| ISO 27001 Gap Assessment       | ISMS, controls, compliance              |
-| Security Policy Pack           | Policy development                      |
-| Vendor Risk Assessment         | Third-party risk                        |
-| Incident Response Tabletop     | Incident management                     |
-| Business Continuity Assessment | BCP/DR                                  |
-| SOC 2 Control Assessment       | Trust Services Criteria                 |
+## 📂 Security Engineering Portfolio
 
-### 🎯 Current Goal
+I'm building practical security engineering projects that demonstrate my ability to **identify vulnerabilities, implement security controls, investigate threats, secure systems, and automate security workflows.**
 
-Building a practical GRC portfolio and developing the skills required for entry-level Cybersecurity, GRC, Risk, Compliance, and Security Analyst roles.
+| Project                      | Skills Demonstrated                                           |
+| ---------------------------- | ------------------------------------------------------------- |
+| Web Application Security Lab | OWASP, vulnerability discovery, remediation                   |
+| Secure REST API              | Authentication, authorization, input validation, API security |
+| Linux System Hardening       | Linux security, access control, system configuration          |
+| Network Security Lab         | TCP/IP, firewalls, IDS/IPS, traffic analysis                  |
+| SIEM Detection Lab           | Log analysis, detection rules, alert investigation            |
+| Vulnerability Management Lab | Scanning, CVEs, risk prioritization, remediation              |
+| Security Monitoring Pipeline | Logs, alerts, dashboards, detection engineering               |
+| Incident Response Lab        | Investigation, containment, remediation                       |
+| Cloud Security Lab           | IAM, security groups, logging, least privilege                |
+| DevSecOps Pipeline           | SAST, dependency scanning, secrets detection                  |
+| Security Automation Tool     | Python/Bash automation, security workflows                    |
+| Threat Detection Project     | IOC analysis, threat hunting, detection rules                 |
+
+## 🎯 Current Goal
+
+Building a practical **Security Engineering portfolio** and developing the technical skills required for entry-level **Security Engineer, Cybersecurity Engineer, Application Security, Cloud Security, SOC, Detection Engineering, and Security Analyst** roles.
 
 ### 📫 Connect
 
