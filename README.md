@@ -1,99 +1,73 @@
 # Hi, I'm King-David Eroh 👋
 
-# GRC & Cybersecurity Analyst
+## GRC & Cybersecurity Analyst
 
-I'm a Computer Engineering graduate building practical experience in **Governance, Risk & Compliance (GRC) and cybersecurity**, with a focus on security controls, risk management, compliance frameworks, security assessments, policies, and organizational security.
+I'm a Computer Engineering graduate developing practical experience in **Governance, Risk & Compliance (GRC) and cybersecurity**. My work focuses on connecting business risks to security controls, assessment evidence, findings and accountable remediation.
+
+My [GRC portfolio](https://github.com/Deekhay/GRC_PORTFOLIO) contains **seven completed portfolio projects**, including a working GRC automation platform and an enterprise capstone.
+
+> All organizations, assessments and evidence in the portfolio are fictional simulations—not client engagements or certifications.
 
 ## 🔐 Areas of Focus
 
-* Governance, Risk & Compliance (GRC)
-* Cybersecurity Risk Management
-* Security Controls & Control Testing
-* Risk Assessments
-* Compliance & Regulatory Requirements
-* Security Policies & Procedures
-* NIST Cybersecurity Framework
-* ISO/IEC 27001
-* SOC 2
-* CIS Controls
-* Third-Party & Vendor Risk Management
-* Security Audits & Assessments
-* Vulnerability & Risk Management
-* Identity & Access Management (IAM)
-* Incident Response & Risk Analysis
-* Business Continuity & Disaster Recovery
-* Security Awareness
-* Cybersecurity Governance
-* Security Documentation & Reporting
-
-## 🛠️ Technical Background
-
-**GRC & Security**
-
-* Risk Assessment
-* Security Control Assessment
-* Control Mapping
-* Compliance Gap Analysis
-* Vulnerability & Risk Management
-* Security Policies & Procedures
-* IAM & Access Controls
-* Security Auditing
-* Incident & Risk Analysis
-* Third-Party Risk Assessment
-
-**Frameworks & Standards**
-
-* NIST Cybersecurity Framework
-* NIST SP 800-53
-* ISO/IEC 27001
-* CIS Controls
-* SOC 2
-* OWASP
-* Risk Management Framework (RMF)
-
-**Technical**
-
-* Linux
-* Windows
-* Networking Fundamentals
-* JavaScript / TypeScript
-* Node.js
-* REST APIs
-* SQL
-* PostgreSQL
-* Firebase
-* Git / GitHub
-* Cloud Security Fundamentals
-* Docker
-* CI/CD
-* Security Automation
+- Cybersecurity risk assessment and treatment
+- Security control assessment, testing and framework mapping
+- Compliance gap analysis and audit readiness
+- Third-party and vendor risk management
+- Security policies, governance and risk exceptions
+- Identity and access management controls
+- Cloud security compliance
+- Evidence management and remediation tracking
+- Executive reporting, risk metrics and GRC automation
 
 ## 📂 GRC & Cybersecurity Portfolio
 
-I'm building practical GRC and cybersecurity projects that demonstrate my ability to **identify and assess risks, evaluate security controls, perform compliance gap assessments, develop security policies, map controls to frameworks, and communicate security findings.**
+| Project | Skills Demonstrated |
+|---|---|
+| [SOC 2 Readiness Assessment](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/01-SOC2-Readiness-Assessment) | Scoping, control mapping, evidence requests, gap analysis and readiness reporting |
+| [Third-Party Risk Management](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/02-Third-Party-Risk-Management) | Vendor tiering, security questionnaires, due diligence and risk decisions |
+| [ISO 27001 ISMS Implementation](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/03-ISO27001-ISMS-Implementation) | ISMS design, risk treatment, Statement of Applicability and security policies |
+| [Cloud Security Compliance Assessment](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/04-Cloud-Security-Compliance) | Fictional AWS configuration assessment, control gaps and remediation planning |
+| [GRC Audit Simulation](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/05-GRC-Audit-Simulation) | Audit planning, sampling, control testing, workpapers, findings and retesting |
+| [GRC Automation Platform](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/06-GRC-Automation-Platform) | Connected GRC workflows, role-based access, risk calculations, dashboards and automated tests |
+| [Enterprise GRC Capstone](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/07-Enterprise-GRC-Capstone) | Enterprise governance, integrated assurance, evidence traceability and executive reporting |
 
-| **Project**                             | **Skills Demonstrated**                                     |
-| --------------------------------------- | ----------------------------------------------------------- |
-| Cybersecurity Risk Assessment           | Risk identification, analysis, treatment, risk register     |
-| NIST CSF Assessment                     | Framework mapping, maturity assessment, gap analysis        |
-| ISO 27001 Gap Assessment                | Control assessment, compliance gaps, remediation planning   |
-| Security Controls Assessment            | Control testing, evidence collection, control effectiveness |
-| SOC 2 Readiness Assessment              | Trust Services Criteria, control mapping, gap analysis      |
-| Third-Party Risk Assessment             | Vendor risk, security questionnaires, risk scoring          |
-| IAM Controls Assessment                 | Access controls, least privilege, access reviews            |
-| Vulnerability Risk Management           | CVE analysis, risk prioritization, remediation tracking     |
-| Security Policy Development             | Policy writing, governance, security requirements           |
-| Incident Response Assessment            | Incident processes, controls, risk analysis                 |
-| Business Continuity & Disaster Recovery | BCP/DR planning, business impact analysis, risk management  |
-| GRC Reporting Dashboard                 | Risk metrics, compliance tracking, security reporting       |
+### 🏆 Flagship: Enterprise GRC Capstone
 
-## 🎯 Current Goal
+A simulated enterprise GRC program connecting **25 risks, 40 controls, 14 findings and 12 vendors** through evidence, control testing, remediation and executive reporting.
 
-Building a practical **GRC & Cybersecurity portfolio** and developing the technical and analytical skills required for entry-level **GRC Analyst, Cybersecurity GRC Analyst, Risk Analyst, Compliance Analyst, Security Analyst, IT Risk Analyst, Third-Party Risk Analyst, and Security Controls Analyst** roles.
+The capstone demonstrates how I document assessment decisions, assign ownership, track unresolved exposure and distinguish completed corrective actions from verified control improvements.
 
+[Read the portfolio case study →](https://github.com/Deekhay/GRC_PORTFOLIO/blob/main/GRC-Portfolio/07-Enterprise-GRC-Capstone/18-Final-Capstone-Report/portfolio-case-study.md)
 
-### 📫 Connect
+### ⚙️ GRC Automation Platform
 
-[LinkedIn](https://www.linkedin.com/in/king-david-eroh-399687269)
+A working **Next.js, TypeScript and PostgreSQL** application that connects risks, controls, evidence, audits, findings, remediation, vendors and policies.
 
-[Email](kderoh5@gmail.com)
+It includes six user roles, server-enforced permissions, approval workflows, calculated risk indicators, CSV reporting and automated unit, integration and browser tests.
+
+[Explore the application and screenshots →](https://github.com/Deekhay/GRC_PORTFOLIO/tree/main/GRC-Portfolio/06-GRC-Automation-Platform)
+
+## 🛠️ Technical Background
+
+**GRC & Assurance**
+
+Risk registers · Control testing · Evidence assessment · Compliance gap analysis · Audit workpapers · Vendor assessments · Policy development · Remediation tracking · Executive reporting
+
+**Frameworks Used in Portfolio Projects**
+
+NIST CSF 2.0 · NIST SP 800-53 and 800-53A · ISO/IEC 27001:2022 and 27002:2022 · SOC 2 Trust Services Criteria · CIS Controls v8.1
+
+**Engineering & Automation**
+
+JavaScript / TypeScript · Next.js / React · Node.js · REST APIs · SQL / PostgreSQL · Prisma · Python · Git / GitHub · Docker · GitHub Actions · Vitest · Playwright
+
+## 🎯 Career Goal
+
+Seeking entry-level opportunities in **GRC, cybersecurity risk, IT risk, compliance, third-party risk and security control assessment**.
+
+I bring an engineering background, structured documentation and practical portfolio experience translating technical issues into business risks, evidence requirements and actionable recommendations.
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/king-david-eroh-399687269) · [Email](mailto:kderoh5@gmail.com) · [GRC Portfolio](https://github.com/Deekhay/GRC_PORTFOLIO)
